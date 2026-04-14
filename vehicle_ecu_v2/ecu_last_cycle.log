@@ -1,0 +1,15 @@
+============================================================
+  VEHICLE ECU LAST CYCLE LOG  v1.3.0
+============================================================
+
+  [CYCLE: 1]
+  [INPUT]   Mode=ACC           Speed=0     Temp=20    Gear=3
+  [MODE] OFF -> ACC
+
+  CYCLE #1 SUMMARY
+  ├─ INPUTS   Speed:    0 kph | Temp:   20 degC | Gear: 3 | Mode: ACC
+  ├─ MODE     Current: ACC          | Previous: OFF         
+  ├─ STATE    NORMAL   | Temp: NORMAL   | Overspeed: NO  | Gear OK: YES
+  ├─ WARNS  [ NONE ]
+  └─ FAULTS [ NONE ]
+============================================================
